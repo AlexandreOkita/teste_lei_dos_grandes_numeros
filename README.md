@@ -1,4 +1,4 @@
-# teste_lei_dos_grandes_numeros
+# teste_lei_dos_grandes_numeros 1.0
 Nome dos integrantes:
 Alexandre Cepkauskas Petrachini RA: 212306.
 Alexandre Torres Okita RA: 193524.
